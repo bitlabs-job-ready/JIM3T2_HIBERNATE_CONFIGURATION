@@ -1,0 +1,9 @@
+1.create maven project in any IDE(eclipse or sts) or use spring initializer.and create class which is a entity with the name customers by using bellow variables.
+	A.cus_id
+	B.cus_name.
+	c.cus_city
+	D.cus_phone
+
+*create entity class
+*create hibernate.cfg.xml file
+*map the entity class with database.
